@@ -1,7 +1,7 @@
 # ember-error-codemod
 
 
-A collection of codemods for ember-error-codemod.
+A collection of codemods for `@ember/error`.
 
 ## Usage
 
